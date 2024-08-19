@@ -1,0 +1,16 @@
+names:
+- face1
+- face2
+- face3
+- face4
+- face5
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: project-qjx2l
+  url: https://universe.roboflow.com/noor-project/project-qjx2l/dataset/1
+  version: 1
+  workspace: noor-project
+test: ../test/images
+train: C:\Users\DELL\yolov5-masterNoor\project1\train\images
+val: C:\Users\DELL\yolov5-masterNoor\project1\valid\images
